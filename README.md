@@ -1,27 +1,30 @@
-# BookstoreFront
+# Desafio de Projeto - Como criar um front-end de um e-commerce utilizando Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+Projeto desenvolvido para o **Desafio de Projeto - Como criar um front-end de um e-commerce utilizando Angular** realizado no curso da [Digital Innovation One - DIO](https://www.dio.me/).
 
-## Development server
+## Sobre o projeto
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Neste projeto foi desenvolvido uma tela de e-commerce de livros, estruturando nosso projeto back-end e criando a nossa API de listagem de produtos.
 
-## Code scaffolding
+Foi utilizado o módulo In-memory Web API para realizar request e response utilizando HttpClient.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 14.1.0.
 
-## Build
+## Screen
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+![](src/assets/images/printscreen.png)
 
-## Running unit tests
+## Tecnologias
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- `Angular 14.1.0.`
+- `JavaScript`
+- `TypeScript`
+- `Git`
 
-## Running end-to-end tests
+### Referências
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- [Como criar um front-end de um e-commerce utilizando Angular](https://web.dio.me/lab/desenvolvimento-de-testes-unitarios-para-validar-uma-api-rest-de-gerenciamento-estoques-de-cerveja/learning/df366920-d30b-482c-9263-df3eab2c8691)
 
-## Further help
+### Informações pessoais:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Linkedin: [https://www.linkedin.com/in/rafael-m-ferreira/](https://www.linkedin.com/in/rafael-m-ferreira/)
